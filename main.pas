@@ -1,6 +1,10 @@
 {
+Modelo OSI - Capa 1 - Fisica
 
-- Signals Processing
+ - Codificacion de datos
+ - Deteccion de colisiones
+ - Signals Modulations
+ - Signals Processing
  - Analog-Digital converter
 
  Protocolos: PPP, Frame Relay, Ethernet, etc.
